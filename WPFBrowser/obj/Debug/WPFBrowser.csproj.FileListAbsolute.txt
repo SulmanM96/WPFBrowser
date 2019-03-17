@@ -1,0 +1,15 @@
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\bin\Debug\WPFBrowser.exe.config
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\bin\Debug\WPFBrowser.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\bin\Debug\WPFBrowser.pdb
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\MainWindow.g.cs
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\App.g.cs
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser_MarkupCompile.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser_MarkupCompile.lref
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\MainWindow.baml
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.g.resources
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.Properties.Resources.resources
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.csproj.GenerateResource.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.csproj.CoreCompileInputs.cache
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.exe
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.pdb
+C:\Users\tech-w78a.LAPTOP-T9HE3QOO\Engineering26\week6\Day3\WPFBrowser\WPFBrowser\obj\Debug\WPFBrowser.csprojAssemblyReference.cache
